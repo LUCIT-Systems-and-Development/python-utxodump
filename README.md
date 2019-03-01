@@ -1,5 +1,8 @@
 Dump data from the Bitcoin UTXO database. You need to have pyleveldb installed,
-which can be installed using pip.
+which can be installed using: 
+
+$ sudo pip install leveldb
+
 
 Example usage:
 ```
